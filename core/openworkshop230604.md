@@ -52,6 +52,58 @@ https://meeting.tencent.com/dm/9jpxreqRTu4x
 - relay的开发工作【yihen update】
 - 区块链浏览器：修复了安卓版metamask不兼容/不能添加chain id的问题，现在可以正常/自动添加jouleverse网络和使用了
 
+## JNSDAO 5月复盘补充材料:
+
+1.5月6号夜拍:
+
+yuzhouchaoren.j 6元 @宇宙超人
+
+lucky.j 20元 @2020.j
+
+fangsheng.j 6元 @微尘
+
+tofu.j  10元 @臭——豆腐
+
+7777.j 80元 @666.j
+
+主持人:董-村民
+
+(完成交割)
+
+2.5月13号夜拍:
+
+1-yuanyuxinghe.j 6元 @元宇星河♥子君
+
+2-beta.j  3 元 @Dream...
+
+3-admin.j 10元  @岑云
+
+4-wangcoin.j 6元@wang.j
+
+5- ordi.j 30元 @🌞
+
+主持人: Open
+
+(完成交割)
+
+两场拍卖出12个域名(包括两个主持人一元购域名)，
+
+加入内测群情况:5月共加入18位新人，截至今天有12位在群，持有域名加入DAO仅2人。两场拍卖出12个域名(包括两个主持人一元购域名)，
+
+加入内测群情况:5月共加入18位新人，截至今天有12位在群，持有域名加入DAO仅2人。
+
+3.jnsdao.com 网站更新：
+
+主要是①.全面将“元码链”改为“Jouleverse”;
+
+②.把JNS DAO改进治理机制后LT工作代替改制前的常委会工作;
+
+③.在〖JNS DAO〗(发展史)增加了通过的4号提案选举koant.j为首任CEO以及6号提案koant.j组建的LT班子;
+
+④. 新人加入方式中，增加了LT为新人分配分组。
+
+4.JNSDAO公众号上线，嵌入新人加入通道。
+
 
 
 
