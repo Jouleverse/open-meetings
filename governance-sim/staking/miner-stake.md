@@ -5,7 +5,7 @@
 \# | miner | stake | verified? | in/out records (tx id + block num)
 -|-|-|-|-
 1  | Koant    | 100万wJ   | ✅ | 0xe4b433132daf1f82e84489d660ba31cd4b4ab32c8896720f53a26de88c6fb0a0 2564075
-2  | 比尔盖   | 100万wJ   | ❌ | 0x0e0a4e731994ceaa3889e5f4f2404863334293e893b70811a17a9fe9c2b67321
+2  | 比尔盖   | 100万wJ   | ✅ | 0xeee414b92cfa544f490f067c849ef1f65dd625c9df8da76be9abc4f275317aaf 2564230
 3  | Menger   | 100万wJ   | ✅ | 0x14ec2f87c92f72e82e376ca41bd23c4f346502f725e059185f7c9433831b1622 2565248
 4  | 谢勇     | 100万wJ   | ✅ | 0xf55427f210b2e4123c57e40eea6d26fd03ca95cef2f042bb4a7da92ef5ab9d03 2566996
 5  | 教链     | 100万wJ   | ✅ | 0x2e2b4c3bd305c0d28e80fb2092652842f801ca3c64e96ac4895922e5e6f6c51d 2569531
