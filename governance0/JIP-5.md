@@ -15,7 +15,7 @@ JIP提案编号: 5
 
 成立Jouleverse首支生态基金ecofund1，从创世金库的生态预算中、在 JIP-3 所定义的框架内进行拨款，由生态基金7位多签人组成的联创团队全权负责运营基金，促进Jouleverse生态发展繁荣。
 
-基金章程：https://github.com/Jouleverse/ecofund1/blob/main/Foundation%20Charter%20Report.md
+基金章程：https://github.com/Jouleverse/ecofund1/blob/main/Foundation%20Charter%20Report.md (revision:20240327, commit:21000e8)
 
 ### 预算及拨付
 
