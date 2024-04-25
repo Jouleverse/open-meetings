@@ -274,7 +274,7 @@ Louis | 251 | 30 | - | -
     - 接收前链上余额：1 J
     - 接收后链上余额：72000001 J
 
-- 记账✅：等待基金工作团队入账，更新[基金财务记录公示表格](https://github.com/Jouleverse/ecofund1/blob/main/financial-statements.md)。
+- 记账✅：基金工作团队已入账并更新[基金财务记录公示表格](https://github.com/Jouleverse/ecofund1/blob/main/financial-statements.md)。
 
 - 对账✅：
     - ecofund1金库执行前余额：1 J，与链上数据相符，与记账对账相符
