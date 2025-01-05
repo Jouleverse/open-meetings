@@ -1,7 +1,7 @@
 https://meeting.tencent.com/v2/cloud-record/share?id=d353faf7-d2b7-4295-81e8-fe9d37b716e7&from=3&is-single=false&record_type=2
 访问密码：HSVM
 
-# 2024.09.01 CGC
+# 2024.09.01 CGC 
 
 
 - 会议预定：Koant
