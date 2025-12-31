@@ -1,3 +1,21 @@
+Jouleverse CGC会议纪要（2025.12.28）
+
+CGC会议回放
+录制: Jouleverse Core Governance Conference (CGC)会议251228
+
+日期: 2025-12-28 13:58:24
+
+录制文件：https://meeting.tencent.com/crm/2GDJRpWy61
+
+密码：MBJB
+
+会务人员
+会议预定：Koant
+
+会议主持兼书记员：如行
+
+议题讨论区：#40
+
 本周CGC会议议题：
 1.本周PoWh工作量汇报
 2.统计工作招聘情况介绍(微尘)
