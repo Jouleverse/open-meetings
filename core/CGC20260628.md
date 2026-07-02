@@ -29,7 +29,7 @@
 
 ## 讨论区
 
-**CGC会议20260607讨论区链接：** https://github.com/Jouleverse/open-meetings/issues/70
+**CGC会议20260628讨论区链接：** https://github.com/Jouleverse/open-meetings/issues/70
 
 ## CGC会议议题
 
