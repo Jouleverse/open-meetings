@@ -31,6 +31,9 @@
 
 * **CGC会议20261025讨论区链接：** https://github.com/Jouleverse/open-meetings/issues/93
 
+> 已创建CGC会议20261025讨论区：https://github.com/Jouleverse/open-meetings/issues/93
+> 请大家在这个讨论区提出议题和参与讨论@ all people
+
 ## 会议议题
 
 1. 本周 PoWh 工作量个人汇报；
